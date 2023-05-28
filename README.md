@@ -29,6 +29,13 @@ In conclusion, this paper presents a novel hybrid encryption method that combine
 
 ---------------------------------------------------------------------------------------------------
 
+# PUBLICATIONS & RESEARCH PAPER
+
+![ijrasetCertificate](https://github.com/deannos/Project-IV/assets/86396326/6dabf8af-8178-4c73-9532-b1264818ee54)
+
+
+----------------------------------------------------------------------------------------------------
+
 **About me** : 
 - I am Amish Jha .
 - B.Tech Final Year CSE Student with an aggregate of 8.6 cgpa (7th Sem).
