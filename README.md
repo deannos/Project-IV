@@ -31,7 +31,7 @@ In conclusion, this paper presents a novel hybrid encryption method that combine
 
 # PUBLICATIONS & RESEARCH PAPER
 
-➡️ Click on ! [Research Paper]
+➡️ Click on ! [Research Paper](https://drive.google.com/file/d/1sLLbrQemYtBSxzUemh02VqqZfDyn09oF/view?usp=sharing)
 
 ![ijrasetCertificate](https://github.com/deannos/Project-IV/assets/86396326/6dabf8af-8178-4c73-9532-b1264818ee54)
 
